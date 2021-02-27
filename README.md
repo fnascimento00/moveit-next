@@ -10,14 +10,14 @@
     </p>
     <p align="center"><img alt="Move.it" src="https://github.com/fnascimento00/moveit-next/blob/main/.github/landing.png"></p>
     <h2>:speech_balloon: Projeto</h2>
-    <p><strong>Move.it</strong> é uma aplicativo de gestão do tempo baseado no conceito da <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">Técnica Pomodoro</a>. O aplicativo é um game que alterna entre ciclos de trabalho e exercícios, ideal para quem passa muito tempo na frente do computador. Este projeto foi desenvolvido na <a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #4</a>.</p>
+    <p><strong>Move.it</strong> é uma aplicativo de gestão do tempo baseado no conceito da <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow" target="_blank">Técnica Pomodoro</a>. O aplicativo é um game que alterna entre ciclos de trabalho e exercícios, ideal para quem passa muito tempo na frente do computador. Este projeto foi desenvolvido na <a href="https://nextlevelweek.com/" rel="nofollow" target="_blank">Next Level Week #4</a>.</p>
     <h2>:rocket: Tecnologias</h2>
     <p>Este projeto foi desenvolvido com as seguintes tecnologias:</p>
     <ul>
-      <li><a href="https://nextjs.org/" rel="nofollow">Next.js</a></li>
+      <li><a href="https://nextjs.org/" rel="nofollow" target="_blank">Next.js</a></li>
     </ul>
     <h2>:information_source:</a> Como usar </h2>
-    <p>Para clonar e executar este aplicativo, você precisará do <a href="https://git-scm.com" rel="nofollow">Git</a> e do <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a>. No terminal execute os seguintes comandos:</p>
+    <p>Para clonar e executar este aplicativo, você precisará do <a href="https://git-scm.com" rel="nofollow" target="_blank">Git</a> e do <a href="https://legacy.yarnpkg.com" rel="nofollow" target="_blank">Yarn</a>. No terminal execute os seguintes comandos:</p>
     <div class="highlight highlight-source-shell">
       <pre><span class="pl-c"><span class="pl-c">#</span> Clonar o repositório</span>
 $ git clone https://github.com/fnascimento00/moveit-next <br/>
@@ -33,6 +33,6 @@ $ yarn dev <br/>
     <h2>:pencil: Licença</h2>
     <p>Este projeto está sob a licença do MIT. Veja o em <a href="https://github.com/fnascimento00/moveit-next/blob/main/LICENSE" rel="nofollow">LICENSE</a> para maiores informações.</p>
     <hr>
-    <p>Saiba mais sobre mim: <a href="https://www.linkedin.com/in/flávio-nascimento-8089a232/" rel="nofollow">linkedin</a></p>
+    <p>Saiba mais sobre mim: <a href="https://www.linkedin.com/in/flávio-nascimento-8089a232/" rel="nofollow" target="_blank">linkedin</a></p>
   </article>
 </div>
