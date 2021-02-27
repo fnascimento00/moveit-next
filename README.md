@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div id="readme" class="Box-body readme blob js-code-block-container">
+  <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
+    <p align="center"><img alt="Move.it" src="https://github.com/fnascimento00/moveit-next/blob/main/.github/logo.svg"></p>
+    <p align="center">
+      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fnascimento00/moveit-next">
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fnascimento00/moveit-next">
+      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fnascimento00/moveit-next">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fnascimento00/moveit-next">
+      <img alt="Github license" src="https://img.shields.io/github/license/fnascimento00/moveit-next">
+    </p>
+    <p align="center"><img alt="Move.it" src="https://github.com/fnascimento00/moveit-next/blob/main/.github/landing.png"></p>
+    <h2>:speech_balloon: Projeto</h2>
+    <p><strong>Move.it</strong> é uma aplicativo de gestão do tempo baseado no conceito da <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">Técnica Pomodoro</a>. O aplicativo é um game que alterna entre ciclos de trabalho e exercícios, ideal para quem passa muito tempo na frente do computador. Este projeto foi desenvolvido na <a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #4</a>.</p>
+    <h2>:rocket: Tecnologias</h2>
+    <p>Este projeto foi desenvolvido com as seguintes tecnologias:</p>
+    <ul>
+      <li><a href="https://nextjs.org/" rel="nofollow">Next.js</a></li>
+    </ul>
+    <h2>:information_source:</a> Como usar </h2>
+    <p>Para clonar e executar este aplicativo, você precisará do <a href="https://git-scm.com" rel="nofollow">Git</a> e do <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a>. No terminal execute os seguintes comandos:</p>
+    <div class="highlight highlight-source-shell">
+      <pre><span class="pl-c"><span class="pl-c">#</span> Clonar o repositório</span>
+$ git clone https://github.com/fnascimento00/moveit-next <br/>
+<span class="pl-c"><span class="pl-c">#</span> Vá para o repositório</span>
+$ <span class="pl-c1">cd</span> moveit-next <br/>
+<span class="pl-c"><span class="pl-c">#</span> Instale as dependências</span>
+$ yarn <br/>
+<span class="pl-c"><span class="pl-c">#</span> Execute o servidor de desenvolvimento</span>
+$ yarn dev <br/>
+<span class="pl-c"><span class="pl-c">#</span> Abra o browser e navegue para http://localhost:3000</span>
+<span class="pl-c"><span class="pl-c">#</span> O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.</span></pre>
+</div>
+    <h2>:pencil: Licença</h2>
+    <p>Este projeto está sob a licença do MIT. Veja o em <a href="https://github.com/fnascimento00/moveit-next/blob/main/LICENSE" rel="nofollow">LICENSE</a> para maiores informações.</p>
+    <hr>
+    <p>Saiba mais sobre mim: <a href="https://www.linkedin.com/in/flávio-nascimento-8089a232/" rel="nofollow">linkedin</a></p>
+  </article>
+</div>

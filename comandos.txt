@@ -1,0 +1,18 @@
+yarn create next-app moveit-next
+
+yarn add typescript @types/react @types/react-dom @types/node - D
+
+yarn add js-cookie
+yarn add @types/js-cookie -D
+
+Instalar o Cli da Vercel
+npm i -g vercel 
+
+Para autenticar no terminal executar
+vercel login
+
+Dentro da pasta do projeto
+vercel
+
+Para publicar novamente basta dar vercel, porém, ele criar uma versão de stage para jogar para a produção
+vercel --prod
