@@ -10,7 +10,7 @@
     </p>
     <p align="center"><img alt="Move.it" src="https://github.com/fnascimento00/moveit-next/blob/main/.github/landing.png"></p>
     <h2>:speech_balloon: Projeto</h2>
-    <p><strong>Move.it</strong> é uma aplicativo de gestão do tempo baseado no conceito da <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">Técnica Pomodoro</a>. O aplicativo é um game que alterna entre ciclos de trabalho e exercícios, ideal para quem passa muito tempo na frente do computador. Este projeto foi desenvolvido na <a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #4</a>.</p>
+    <p><strong>Move.it</strong> é um aplicativo de gestão do tempo baseado no conceito da <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">Técnica Pomodoro</a>. O aplicativo é um game que alterna entre ciclos de trabalho e exercícios, ideal para quem passa muito tempo na frente do computador. Este projeto foi desenvolvido na <a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #4</a>.</p>
     <h2>:rocket: Tecnologias</h2>
     <p>Este projeto foi desenvolvido com as seguintes tecnologias:</p>
     <ul>
